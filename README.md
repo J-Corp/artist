@@ -1,8 +1,8 @@
 # artist
 
-## Test live 
+## Test live at
 ```
-artist.tutorrit.com
+www.artist.tutorrit.com
 ```
 
 ## Project setup
