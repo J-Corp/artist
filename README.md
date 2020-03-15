@@ -2,7 +2,7 @@
 
 ## Test live at
 ```
-www.artist.tutorrit.com
+artist.tutorrit.com
 ```
 
 ## Project setup
