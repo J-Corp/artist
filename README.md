@@ -1,8 +1,8 @@
 # artist
 
-## Test live at
+## Test the app live at
 ```
-artist.tutorrit.https://objective-murdock-aff8a4.netlify.com
+https://objective-murdock-aff8a4.netlify.com
 ```
 
 ## Project setup
