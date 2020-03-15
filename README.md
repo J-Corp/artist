@@ -1,5 +1,10 @@
 # artist
 
+## Test live 
+```
+artist.tutorrit.com
+```
+
 ## Project setup
 ```
 npm install
