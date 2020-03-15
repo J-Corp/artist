@@ -2,7 +2,7 @@
 
 ## Test live at
 ```
-artist.tutorrit.com
+artist.tutorrit.https://objective-murdock-aff8a4.netlify.com
 ```
 
 ## Project setup
